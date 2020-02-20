@@ -1,7 +1,7 @@
 {
-  "name": "react-tetris",
+  "name": "react-starter",
   "version": "1.0.0",
-  "description": "Yet another Tetris implementation with ES6",
+  "description": "React Starter Project",
   "main": "index.js",
   "scripts": {
     "webpack": "webpack",
